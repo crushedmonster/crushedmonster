@@ -1,7 +1,8 @@
 ### Hi there, I'm Wenna 👋
 
 **About me**
-- 🤓 Based in Singapore, I'm currently on an apprenticeship to learn more about AI Engineering.
+- 🌎 Based in Singapore 
+- 🤓 I'm currently on an apprenticeship to learn more about AI Engineering.
 - 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/wenna-loo/)
 
 --------------------------------------------------------------------
