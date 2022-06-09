@@ -1,7 +1,3 @@
-### Hi there, I'm Wenna 👋
-
---------------------------------------------------------------------
-
 | ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=crushedmonster&show_icons=true) | ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=crushedmonster&layout=compact) |
 | ------------- | ------------- |
 
