@@ -1,5 +1,9 @@
 ### Hi there, I'm Wenna 👋
 
+**About me**
+- 🤓 Based in Singapore, I'm currently on an apprenticeship to learn more about AI Engineering.
+- 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/wenna-loo/)
+
 --------------------------------------------------------------------
 
 | ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=crushedmonster&show_icons=true) | ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=crushedmonster&layout=compact) |
