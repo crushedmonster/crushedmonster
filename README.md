@@ -7,9 +7,6 @@
 
 --------------------------------------------------------------------
 
-| ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=crushedmonster&show_icons=true) | ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=crushedmonster&layout=compact) |
-| ------------- | ------------- |
-
 <!--
 **crushedmonster/crushedmonster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
