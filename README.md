@@ -1,7 +1,8 @@
 ### Hi there, I'm Wenna 👋
 
 **About me**
-- 🌎 An AI Engineer based in Singapore 
+- 🌎 A Platforms Engineer based in Singapore
+- 💬 Occasionally, I share articles here on [Medium](https://medium.com/@wenna_loo)
 - 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/wenna-loo/)
 
 <!--
